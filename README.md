@@ -1,3 +1,5 @@
+> **These are the 2021 materials, kept for reference.** The current workshops are at **https://iqss.github.io/dss-workshops/** (repository [IQSS/dss-workshops](https://github.com/IQSS/dss-workshops)), rebuilt in 2026 on current R, Python, and Stata. Every page here has a successor at the same address on the new site; the download links below no longer work.
+
 # Data Science Workshops
 
 Materials for the software workshops held at the [Institute for Quantitative Social Science](http://dss.iq.harvard.edu/) and [Harvard Business School](https://training.rcs.hbs.org) at Harvard.
