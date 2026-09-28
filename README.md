@@ -12,3 +12,8 @@ and exported to other formats, such as [.ipynb](https://jupyter.org/),
 
 Content is converted to `.html` for the website using [pandoc](https://pandoc.org)
 via [bookdown](https://bookdown.org/).
+
+## License
+
+MIT for code (`LICENSE`), CC BY 4.0 for the text and figures (`LICENSE-content`), the standard
+across DSS sites since 2026-09-27.
